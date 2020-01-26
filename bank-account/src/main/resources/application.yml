@@ -1,0 +1,15 @@
+## YAML Template.
+
+## MySQL
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/account
+    username: root
+    password: Folashade@2012
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      naming:
+        implicit-strategy: org.hibernate.cfg.ImprovedNamingStrategy
+ 

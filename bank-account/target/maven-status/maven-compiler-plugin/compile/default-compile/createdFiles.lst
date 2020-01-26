@@ -1,0 +1,13 @@
+uk\co\fred\dev\bank\account\manager\TransactionManager.class
+uk\co\fred\dev\bank\account\service\TransactionService.class
+uk\co\fred\dev\bank\account\BankMain.class
+uk\co\fred\dev\bank\account\repository\AccountRepositoryImpl.class
+uk\co\fred\dev\bank\account\model\SavingsAccount.class
+uk\co\fred\dev\bank\account\model\CurrentAccount.class
+uk\co\fred\dev\bank\account\factory\AccountFactory.class
+uk\co\fred\dev\bank\account\repository\AccountRepository.class
+uk\co\fred\dev\bank\account\model\Account.class
+uk\co\fred\dev\bank\account\AccountOld.class
+uk\co\fred\dev\bank\account\controller\AccountController.class
+uk\co\fred\dev\bank\account\service\AccountService.class
+uk\co\fred\dev\bank\account\manager\AccountManager.class
